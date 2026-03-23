@@ -1,0 +1,135 @@
+domain,provider,cname_target,status_code,matched_pattern,takeover_confirmed,response_snippet,error
+cmt.research.microsoft.com,azurewebsites.net,cmtcontainer.azurewebsites.net.,404.0,True,True,"<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: le",
+msengage-na.partners.extranet.microsoft.com,azurewebsites.net,campusktlo.azurewebsites.net.,404.0,True,True,"<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: le",
+campus.partners.extranet.microsoft.com,azurewebsites.net,campusktlo.azurewebsites.net.,404.0,True,True,"<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: le",
+msengage-apac.partners.extranet.microsoft.com,azurewebsites.net,campusktlo.azurewebsites.net.,404.0,True,True,"<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: le",
+msengage-emea.partners.extranet.microsoft.com,azurewebsites.net,campusktlo.azurewebsites.net.,404.0,True,True,"<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: le",
+ivrrcb.ectest.one.microsoft.com,azurewebsites.net,ivrrcbwebapp.azurewebsites.net.,404.0,True,True,"<!DOCTYPE html>
+<html>
+<head>
+    <title>Microsoft Azure Web App - Error 404</title>
+    <style type=""text/css"">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 75px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: ""Segoe UI"";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: le",
+brandguide.github.com,github.io,github.github.io.,404.0,True,True,There isnt a GitHub Pages site here,
+mona-arcade.github.com,github.io,github.github.io.,404.0,True,True,There isnt a GitHub Pages site here,

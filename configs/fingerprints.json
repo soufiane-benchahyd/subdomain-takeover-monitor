@@ -1,0 +1,98 @@
+{
+  "github.io": {
+    "pattern": "There isn't a GitHub Pages site here",
+    "takeover": true, "difficulty": "easy", "severity": "CRITICAL"
+  },
+  "s3.amazonaws.com": {
+    "pattern": "NoSuchBucket",
+    "takeover": true, "difficulty": "easy", "severity": "CRITICAL"
+  },
+  "herokuapp.com": {
+    "pattern": "No such app",
+    "takeover": true, "difficulty": "easy", "severity": "HIGH"
+  },
+  "azurewebsites.net": {
+    "pattern": "404 Web Site not found",
+    "takeover": true, "difficulty": "medium", "severity": "HIGH"
+  },
+  "ghost.io": {
+    "pattern": "Domain does not exist",
+    "takeover": true, "difficulty": "easy", "severity": "HIGH"
+  },
+  "surge.sh": {
+    "pattern": "project not found",
+    "takeover": true, "difficulty": "easy", "severity": "HIGH"
+  },
+  "webflow.io": {
+    "pattern": "The page you are looking for doesn't exist",
+    "takeover": true, "difficulty": "medium", "severity": "MEDIUM"
+  },
+  "fastly.net": {
+    "pattern": "Fastly error: unknown domain",
+    "takeover": true, "difficulty": "hard", "severity": "MEDIUM"
+  },
+  "helpscoutdocs.com": {
+    "pattern": "No settings were found for this company",
+    "takeover": true, "difficulty": "easy", "severity": "LOW"
+  },
+  "uservoice.com": {
+    "pattern": "This UserVoice subdomain is currently available",
+    "takeover": true, "difficulty": "easy", "severity": "LOW"
+  },
+  "zendesk.com": {
+    "pattern": "Help Center Closed",
+    "takeover": true, "difficulty": "medium", "severity": "LOW"
+  },
+  "freshdesk.com": {
+    "pattern": "There is no helpdesk here",
+    "takeover": true, "difficulty": "easy", "severity": "LOW"
+  },
+  "bitbucket.io": {
+    "pattern": "Repository not found",
+    "takeover": true, "difficulty": "easy", "severity": "HIGH"
+  },
+  "cloudfront.net": {
+    "pattern": "Bad request",
+    "takeover": false, "difficulty": "hard", "severity": "LOW"
+  },
+  "tumblr.com": {
+    "pattern": "There's nothing here",
+    "takeover": true, "difficulty": "easy", "severity": "MEDIUM"
+  },
+  "wpengine.com": {
+    "pattern": "The site you were looking for couldn't be found",
+    "takeover": true, "difficulty": "medium", "severity": "MEDIUM"
+  },
+  "pantheonsite.io": {
+    "pattern": "The gods are wise",
+    "takeover": true, "difficulty": "medium", "severity": "MEDIUM"
+  },
+  "smugmug.com": {
+    "pattern": "Page Not Found",
+    "takeover": true, "difficulty": "medium", "severity": "LOW"
+  },
+  "squarespace.com": {
+    "pattern": "No Such Account",
+    "takeover": false, "difficulty": "hard", "severity": "LOW"
+  },
+  "readme.io": {
+    "pattern": "Project doesnt exist",
+    "takeover": true, "difficulty": "easy", "severity": "MEDIUM"
+  },
+  "aftership.com": {
+    "pattern": "Oops. Page not found",
+    "takeover": true, "difficulty": "easy", "severity": "MEDIUM"
+  },
+  "agilecrm.com": {
+    "pattern": "Sorry, this page is no longer available",
+    "takeover": true, "difficulty": "easy", "severity": "LOW"
+  },
+  "pingdom.com": {
+    "pattern": "This public report page has not been activated",
+    "takeover": true, "difficulty": "easy", "severity": "LOW"
+  },
+  "worksites.net": {
+    "pattern": "Hello! There's nothing here yet",
+    "takeover": true, "difficulty": "easy", "severity": "MEDIUM"
+  }
+}

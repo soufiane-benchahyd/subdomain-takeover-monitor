@@ -1,0 +1,1 @@
+{"timestamp": "2026-03-23 19:45:58.943839", "results": {"Scraping crt.sh": "OK", "Merging subdomains": "OK", "DNS resolution": "OK", "Flagging dangling": "OK", "HTTP fingerprinting": "OK", "Scoring risks": "OK", "Generating report": "OK"}}

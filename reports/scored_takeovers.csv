@@ -1,0 +1,9 @@
+domain,cname_target,provider,risk_score,severity,impact
+brandguide.github.com,github.github.io.,github.io,9,CRITICAL,"Full HTML/JS control, XSS on parent domain possible"
+mona-arcade.github.com,github.github.io.,github.io,9,CRITICAL,"Full HTML/JS control, XSS on parent domain possible"
+cmt.research.microsoft.com,cmtcontainer.azurewebsites.net.,azurewebsites.net,8,HIGH,"Full app deployment, cookie scope abuse"
+msengage-na.partners.extranet.microsoft.com,campusktlo.azurewebsites.net.,azurewebsites.net,8,HIGH,"Full app deployment, cookie scope abuse"
+msengage-apac.partners.extranet.microsoft.com,campusktlo.azurewebsites.net.,azurewebsites.net,8,HIGH,"Full app deployment, cookie scope abuse"
+campus.partners.extranet.microsoft.com,campusktlo.azurewebsites.net.,azurewebsites.net,8,HIGH,"Full app deployment, cookie scope abuse"
+ivrrcb.ectest.one.microsoft.com,ivrrcbwebapp.azurewebsites.net.,azurewebsites.net,8,HIGH,"Full app deployment, cookie scope abuse"
+msengage-emea.partners.extranet.microsoft.com,campusktlo.azurewebsites.net.,azurewebsites.net,8,HIGH,"Full app deployment, cookie scope abuse"

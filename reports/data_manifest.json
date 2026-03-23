@@ -1,0 +1,31 @@
+{
+  "data/ct_logs": {
+    "files": [
+      "crtsh_amazonaws.com.csv",
+      "crtsh_github.com.csv",
+      "crtsh_microsoft.com.csv",
+      "crtsh_shopify.com.csv"
+    ],
+    "total_size_mb": 0.16
+  },
+  "data/dns_results": {
+    "files": [
+      "dangling_cnames.csv",
+      "dns_resolved.jsonl",
+      "master_subdomains.csv"
+    ],
+    "total_size_mb": 0.7
+  },
+  "data/http_responses": {
+    "files": [
+      "fingerprint_results.jsonl"
+    ],
+    "total_size_mb": 0.08
+  },
+  "reports": {
+    "files": [
+      "confirmed_takeovers.csv"
+    ],
+    "total_size_mb": 0.0
+  }
+}
